@@ -1,5 +1,5 @@
 flask
-google
+google-generativeai
 amazon-textract-textractor==1.7.12
 azure-ai-documentintelligence==1.0.0b3
 google-ai-generativelanguage==0.6.5
